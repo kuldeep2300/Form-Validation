@@ -1,4 +1,4 @@
-#Form Validation Project with jQuery
+# Form Validation Project with jQuery
 
 ### Description 🚀:
 The Form Validation project, built using jQuery as part of my Full MERN Stack journey, focuses on validating user input in an HTML form. It ensures that users enter correct details for email, mobile number, and password fields. If there are any mistakes, error messages are displayed accordingly. Upon successful validation, a registration success message appears. Additionally, the project includes password validation between the password and confirm password fields, providing a comprehensive validation experience.
